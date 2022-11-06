@@ -15,7 +15,7 @@ role: Professor de Matemática
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universidade Federal do Acre
-    url: https://ufac.br/
+    url: https://www.ufac.br/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Atualmente sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). Minha area de pesquisa é a geometria diferencial e abaixo estão alguns dos trabalhos que eu venho desenvolvendo desde o meu doutorado.
@@ -55,13 +55,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: http://lattes.cnpq.br/3530744794583222
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/williantokura
+  # icon: linkedin
+  # icon_pack: fab
+  # link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
