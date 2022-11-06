@@ -1,7 +1,6 @@
 ---
 title: "On warped product gradient Yamabe solitons"
 authors:
-author_notes:
 doi: "https://doi.org/10.1016/j.jmaa.2018.12.044"
 
 # Schedule page publish date (NOT publication's date).
@@ -14,13 +13,10 @@ doi: "https://doi.org/10.1016/j.jmaa.2018.12.044"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Mathematical Analysis and Applications, *(2019)"
+publication: "Journal of Mathematical Analysis and Applications, (2019)"
 publication_short: ""
 
 
-tags:
-- Source Themes
-featured: false
 
 
 # Associated Projects (optional).
