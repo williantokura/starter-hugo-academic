@@ -78,5 +78,3 @@ highlight_name: true
 ---
 
 Atualmente sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). Minha area de pesquisa é a geometria diferencial e abaixo estão alguns dos trabalhos que eu venho desenvolvendo desde o meu doutorado.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
