@@ -29,15 +29,15 @@ interesses:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doutorado em Matemática
+      institution: Universidade Federal de Goiás
+      year: 2019
+    - course: Mestrado em Matemática
+      institution: Universidade Federal de Goiás
+      year: 2016
+    - course: Licenciado em Matemática
+      institution: Universidade Federal da Grande Dourados
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,10 +47,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+# - icon: twitter
+# icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#   label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
