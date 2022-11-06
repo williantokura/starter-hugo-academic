@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Willian Isao Tokura
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Willian
+last_name: Tokura
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor de Matemática
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidade Federal do Acre
+    url: https://ufac.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Atualmente sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). Minha area de pesquisa é a geometria diferencial e abaixo estão alguns dos trabalhos que eu venho desenvolvendo desde o meu doutorado.
 
 # Interests to show in About widget
-interests:
+interesses:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
