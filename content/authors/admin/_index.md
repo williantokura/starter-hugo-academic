@@ -18,7 +18,7 @@ organizations:
     url: https://www.ufac.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Atualmente sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). Minha area de pesquisa é a geometria diferencial e abaixo estão alguns dos trabalhos que eu venho desenvolvendo desde o meu doutorado.
+bio: Olá! Eu sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). Minha area de pesquisa é a geometria diferencial.
 
 # Interests to show in About widget
 interesses:
