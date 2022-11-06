@@ -1,7 +1,6 @@
 ---
 title: "An example journal article"
 authors:
-- admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
